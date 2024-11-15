@@ -56,6 +56,6 @@ app.get('/cars', (req, res) => {
  });
 });
 
-app.listen(3500, () => {
+app.listen(44.226.145.213, () => {
  console.log('Сервер запущен на порту 3500');
 });
